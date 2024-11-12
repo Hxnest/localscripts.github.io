@@ -230,5 +230,15 @@
         "lastEditedBy": "Mr. Ratter",
         "lastEditedByImage": "assets/unverified.png",
         "warning": true
-    }
+    },
+        "name": "Flora",
+        "pros": ["84% UNC", "No keysystem"],
+        "neutral": ["Not that well-known", "Uses cloudy"],
+        "cons": ["Safety is not verified by voxlis.NET", "Not verified by voxlis.NET"],
+        "link": "https://loot-link.com/s?cd273951",
+        "buttonText": "FREE",
+        "types": ["windows"],
+        "lastEditedBy": "Jaquandale",
+        "lastEditedByImage": "assets/unverified.png",
+        "warning": true
 ]
